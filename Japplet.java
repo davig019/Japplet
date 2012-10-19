@@ -85,6 +85,15 @@ public void stop() {
 
 
 
+
+
+
+
+
+
+
+
+
 // Executed whenever the applet is asked to redraw itself.
 public void paint( Graphics g ) {
   
